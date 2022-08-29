@@ -43,15 +43,7 @@ Below the "Your work here" section header, do the following 3 things. To turn th
 
 + A _subsubheading_ with the name of the artist or author;   
 
-_Cage the Elephant_
-
 + An example of their writing or lyrics (formatted in a *plain code block*);
-
-```
-Afraid of what the truth might bring
-He locks his doors and never leaves 
-Desperately searching for signs
-```
 
 + A _list_ of things they have written or performed (remember to use the formatting markup for a list!).  
 
